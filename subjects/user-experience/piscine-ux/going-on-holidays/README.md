@@ -6,7 +6,7 @@ Welcome to the 2nd quest.
 
 Your mission, should you choose to accept it, is to focus on going on holidays with friends. As you may have noticed, experiencing weekends or other kinds of holidays is super nice, but may lead to some moments of irritation.
 
-So this project’s goal is to make holidays more comfortable fo everyone. But first, as in all design processes, you need to understand the real problem behind stressful moments!
+So this project’s goal is to make holidays more comfortable for everyone. But first, as in all design processes, you need to understand the real problem behind stressful moments!
 
 ### Instructions
 
